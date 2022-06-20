@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "captioner"]
+	path = captioner
+	url = https://github.com/adletaw/captioner
+	shallow = true
+	registered = true
